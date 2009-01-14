@@ -13,6 +13,7 @@ Release:	1
 License:	GPL v2
 Group:		Applications
 Source0:	http://files.postlbs.org/pgrouting/source/%{name}-%{version}.tgz
+# Source0-md5:	ee700d18a984b8fd78c1a739ca078683
 URL:		http://pgrouting.postlbs.org/
 BuildRequires:	boost-devel >= 1.33
 BuildRequires:	CGAL-devel >= 3.2
